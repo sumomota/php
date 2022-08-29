@@ -1,0 +1,30 @@
+.container{
+    margin: 0 auto;
+    width: 580;
+    border: 1px solid  #000;
+    background: #dceaf8;
+    padding:40px 80px;
+    box-sizing:border-box;
+}
+.container h2{
+    text-align: center;
+}
+
+.btn-default{
+    color: #fff;
+    background-color: #406bca;
+}
+.btn {
+    padding:7px 35px;
+    border: none;
+    border-radius:10px;
+    font-weight:bold;
+}
+.btn-wrapper {
+
+    text-align: center;
+}
+
+.ime-inactive{
+     ime-mode: inactive;
+}

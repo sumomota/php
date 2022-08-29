@@ -1,0 +1,15 @@
+.container{
+    margin: 0 auto;
+    width: 580px;
+    border: 1px solid #000;
+    background: #dceaf8;
+    padding: 40px 80px;
+    box-sizing: border-box;
+    min-height: 400px;     
+    }
+    .container h2{
+        text-align: center;
+    }
+    .container p{
+        text-align: center;
+    }
